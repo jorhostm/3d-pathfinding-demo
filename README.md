@@ -6,6 +6,10 @@ A visual demo of A* pathfinding in an editable 3D block environment
 DOWNLOAD LINK FOR BINARIES
 - https://drive.google.com/file/d/1Wa8_fo448NX-MIaLt1lmdX1ww5RIDSCM/view?usp=sharing
 
+HOW TO RUN
+- Download and extract the .zip file.
+- Make sure you have installed the most recent Visual C++ Redistributable
+- Run 3D_Pathfinding_Demo.exe in the same directory as its assets
 
 TODO
 - Organise files.
