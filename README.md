@@ -3,6 +3,9 @@ A visual demo of A* pathfinding in an editable 3D block environment
 
 ![](https://cdn.discordapp.com/attachments/349310629552586755/781581063779516438/unknown.png)
 
+VISUAL SHOWCASE
+- https://youtu.be/86orNMkesj8
+
 DOWNLOAD LINK FOR BINARIES
 - https://drive.google.com/file/d/1Wa8_fo448NX-MIaLt1lmdX1ww5RIDSCM/view?usp=sharing
 
