@@ -7,7 +7,7 @@ VISUAL SHOWCASE
 - https://youtu.be/86orNMkesj8
 
 DOWNLOAD LINK FOR BINARIES
-- https://drive.google.com/file/d/1Wa8_fo448NX-MIaLt1lmdX1ww5RIDSCM/view?usp=sharing
+- https://drive.google.com/file/d/185nbEP-2DW526v4tqXN2Gj4zN_YamM2N/view?usp=sharing
 
 HOW TO RUN
 - Download and extract the .zip file.
